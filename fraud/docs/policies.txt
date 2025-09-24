@@ -1,0 +1,17 @@
+Bank Policy Document - Fraud and Security
+
+1.0 Card Transactions
+   1.1 International Transactions: New card purchases over $5,000 outside the cardholder's home country require secondary verification.
+   1.2 Unusual Spending: A sudden, large increase in transaction size or a purchase at an uncharacteristic merchant may trigger a fraud alert.
+
+2.0 Loan Applications
+   2.1 Address Verification: Loan applications with mismatched residential and employment addresses are automatically flagged for review by a senior analyst.
+   2.2 Identity Mismatch: Discrepancies between submitted identity documents and existing customer records will result in a manual review.
+
+3.0 Customer Authentication
+   3.1 Login Attempts: Three or more consecutive failed authentication attempts from a new device or IP address result in a temporary account lock.
+   3.2 Compromised Device: Alerts are sent for logins from newly registered devices after a customer has reported a device as stolen.
+
+4.0 Payments and Transfers
+   4.1 Large Value Payments: Payments or wire transfers over $20,000 to new beneficiaries are subject to a 24-hour hold and manual verification.
+   4.2 Unusual Recipient: Transfers to unfamiliar or high-risk regions may be flagged for additional review.

@@ -1,0 +1,10 @@
+Fraud Case Study Report
+
+Case 1: Card Fraud
+A long-time customer who typically spent around $100 per week on groceries and fuel suddenly made a $7,000 electronics purchase in a different state. The system detected this as unusual spending behavior and alerted the customer, preventing a fraudulent transaction.
+
+Case 2: Authentication Fraud
+A customer reported their phone stolen. The system later detected a login attempt from a new IP address, and after three failed password attempts, the account was automatically locked, preventing unauthorized access.
+
+Case 3: Loan Fraud
+An individual submitted a loan application with a residential address in Texas but claimed to work for a company with headquarters only in California. The RAG system flagged this address mismatch as a high-risk indicator based on policy and historical data.
